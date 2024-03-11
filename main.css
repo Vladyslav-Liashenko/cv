@@ -115,7 +115,9 @@ body {
 .date {
     margin: 0%;
 }
-.colortext {
+a {
+    color: rgb(0, 63, 82);
+  }
+  a:visited, a:focus, a:hover {
     color: #5695DE;
-}
-
+  }
