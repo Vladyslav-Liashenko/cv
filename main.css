@@ -91,6 +91,7 @@ body {
 }
 .edu_li {
     display: flex;
+    gap: 10px;
 }
 .edu_p_name {
     margin: 0%;
