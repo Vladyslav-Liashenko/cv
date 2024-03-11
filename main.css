@@ -92,6 +92,9 @@ body {
 .edu_li {
     display: flex;
 }
+.projects_link {
+    padding: 0px;
+}
 .edu_p_name {
     margin: 0%;
     margin-top: 10px;
